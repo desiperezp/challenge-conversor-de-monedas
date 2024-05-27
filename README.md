@@ -24,4 +24,4 @@
 3) El resultado de la conversión se mostrará en la consola.
 
 ## Autor
-dessiperezp - GitHub
+[dessiperezp](https://github.com/desiperezp) - GitHub
